@@ -9,4 +9,3 @@ while milkshake_counter < 5:
         cups_of_milk_stack.pop(0)
         milkshake_counter += 1
 
-
